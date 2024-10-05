@@ -31,3 +31,5 @@ test.txt
 *.x86_64
 *.hex
 
+#
+examples/fac
