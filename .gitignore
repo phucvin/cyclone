@@ -33,3 +33,5 @@ test.txt
 
 #
 examples/fac
+examples/fib
+examples/fib_native
